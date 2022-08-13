@@ -5,9 +5,8 @@
   "version": "0.1.1",
   "private": false,
   "engines": {
-    "node": "12.*"
-    "npm": "2.15.x"
-  },
+    "node": "16.15.1*"
+    },
   "scripts": {
     "start": "node server.js"
   },
