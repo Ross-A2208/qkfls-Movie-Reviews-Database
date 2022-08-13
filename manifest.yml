@@ -3,4 +3,4 @@ applications:
  - name: movies-reviews-database
    random-route: true
    memory: 64M
-buildpack: SDK-for-node.js
+buildpack: node.js
